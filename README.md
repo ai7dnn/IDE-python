@@ -5,3 +5,4 @@
 ## 수업 중 자료 주소
 - https://hogni.tistory.com/29
 - https://github.com/YashMarmat/Dictionaries-in-python/blob/master/dictionary.py
+- https://github.com/ndb796/python-for-coding-test
