@@ -18,3 +18,9 @@
 - https://www.kaggle.com/code
 - https://www.kaggle.com/code/daehungwak/guide-kor-dg/notebook
 
+## 파이썬 패키지 서비스 연결
+- https://numpy.org/
+- https://pandas.pydata.org/
+- https://matplotlib.org/
+- https://bokeh.org/
+
