@@ -24,3 +24,8 @@
 - https://matplotlib.org/
 - https://bokeh.org/
 
+## 파이썬 학습 참조 사이트
+- https://www.pythoncheatsheet.org/
+- https://realpython.com/
+
+
