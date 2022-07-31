@@ -7,3 +7,25 @@
 - https://github.com/YashMarmat/Dictionaries-in-python/blob/master/dictionary.py
 - https://github.com/ndb796/python-for-coding-test
 - https://github.com/YashMarmat/Dictionaries-in-python/blob/master/dictionary.py
+
+## 관련 프로그램 다운로드
+- https://www.python.org/downloads
+- https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows
+- https://code.visualstudio.com/download
+
+## 관련 서비스 연결
+- https://colab.research.google.com
+- https://www.kaggle.com/code
+- https://www.kaggle.com/code/daehungwak/guide-kor-dg/notebook
+
+## 파이썬 패키지 서비스 연결
+- https://numpy.org/
+- https://pandas.pydata.org/
+- https://matplotlib.org/
+- https://bokeh.org/
+
+## 파이썬 학습 참조 사이트
+- https://www.pythoncheatsheet.org/
+- https://realpython.com/
+
+
